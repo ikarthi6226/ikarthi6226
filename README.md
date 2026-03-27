@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**ikarthi6226/ikarthi6226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I’m interested in: [e.g. Web Development, AI, etc.]
+- 🌱 Currently learning: [tech/skills]
+- 🎯 Goal: [what you're aiming for]
+- 📍 Location: [optional]
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: HTML, CSS, JavaScript, Python
+- Tools: Git, VS Code, Docker, DXL, Macro 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 [Project Name] – short description: i am developing a new tool in python for work 
+
+## 📫 Contact Me
+- Email: kartindevh2023@gmail.com
+- LinkedIn:
