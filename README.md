@@ -2,13 +2,11 @@
 
 ## 🚀 About Me
 - 💻 I’m interested in: [e.g. Web Development, AI, etc.]
-- 🌱 Currently learning: [tech/skills]
-- 🎯 Goal: [what you're aiming for]
-- 📍 Location: [optional]
+- 🌱 Currently learning: AI, planning to learn cybersecurity.
 
 ## 🛠️ Tech Stack
 - Languages: HTML, CSS, JavaScript, Python
-- Tools: Git, VS Code, Docker, DXL, Macro 
+- Tools: Git, VS Code, DXL, Macro 
 
 ## 📂 Projects
 - 🔹 [Project Name] – short description: i am developing a new tool in python for work 
